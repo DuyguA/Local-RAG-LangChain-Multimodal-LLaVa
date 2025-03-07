@@ -1,4 +1,4 @@
-# Local-RAG-LangChain-Multimodal-LLaVa 
+# Multimodal RAG with LangChain and Local LLaVa Model
 Welcome to the repo of the tutorial "Multimodal RAG with LangChain and Local LLaVa Model". This repo contains code and helper data of the Youtube video tutorial VIDEO BURAYA, third video of the series "Practical RAG with LangChain under 15 Minutes."
 
 
